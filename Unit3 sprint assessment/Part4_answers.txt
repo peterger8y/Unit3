@@ -1,0 +1,9 @@
+Q1 Answer: They have a many to many relationship. This means that one
+employee can have multiple territories, and one territory can have multiple
+employees.
+
+Q2 Answer: Document Stores are ideal in situations where only horizontal scaling is available
+and where ACID requirements are not a high priority; basically, where total data authenticity isn't a concern.
+
+Q3 Answer: NewSQL are scalable relational database management systems designed with
+horizontal scaling in mind. They try to achieve the best of both NoSQL and SQL databases.
